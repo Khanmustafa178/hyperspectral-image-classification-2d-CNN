@@ -1,0 +1,1 @@
+Place `Salinas.mat` (MATLAB key `salinas`) and `Salinas_gt.mat` (key `salinas_gt`) in this directory. Dataset files are not bundled; obtain them from an authorized source and check redistribution terms. `.mat` files are ignored by Git by default.
