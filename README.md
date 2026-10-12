@@ -1,4 +1,4 @@
-# Salinas 2D-CNN for Hyperspectral Image Classification
+# 2D-CNN for Hyperspectral Image Classification
 
 A reproducible TensorFlow/Keras implementation of a 2D convolutional neural network for pixel-wise classification of the Salinas hyperspectral image using spatial-spectral patches.
 
